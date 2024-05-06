@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 30px;
+  width: 300px;
+  align-items: center;
+}
+
+.form-divs {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.btn {
+  margin-top: 16px;
+  width: 100px;
+}
+
+.error {
+  color: red;
+}

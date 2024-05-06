@@ -1,0 +1,12 @@
+.search {
+  margin-bottom: 30px;
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 300px;
+}
+
+.search-div {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}

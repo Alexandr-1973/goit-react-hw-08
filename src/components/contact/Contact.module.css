@@ -1,0 +1,38 @@
+.contact {
+  display: flex;
+  border: 2px solid black;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  padding: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  border: 2px solid gray;
+  border-radius: 4px;
+  background-color: lavender;
+  margin: 0;
+}
+
+.icon {
+  width: 18px;
+  height: 16px;
+}
+
+.item {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
